@@ -1,0 +1,15 @@
+.container {
+    margin:auto;
+    max-width: 950px;
+
+}
+.menu-details{
+
+    list-style-type: none;
+}
+.menu-details li{
+    float: left;
+    padding: 10px 5px;
+    margin: 10px 5px;
+    border: 1px solid black;
+}
